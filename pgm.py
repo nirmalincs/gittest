@@ -5,3 +5,4 @@ def sub():
 def mul():
 	print(a*b)
 print("good")
+print("good again")
