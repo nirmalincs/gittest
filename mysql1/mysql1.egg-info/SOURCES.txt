@@ -1,0 +1,11 @@
+setup.py
+mypackage/__init__.py
+mypackage/program.py
+mypackage/setup.py
+mypackage1/__init__.py
+mysql1.egg-info/PKG-INFO
+mysql1.egg-info/SOURCES.txt
+mysql1.egg-info/dependency_links.txt
+mysql1.egg-info/top_level.txt
+wwww/__init__.py
+wwww/test.py
